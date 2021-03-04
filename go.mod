@@ -1,0 +1,1 @@
+module github.com/smartwalle/doc4go
