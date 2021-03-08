@@ -41,7 +41,7 @@ func NewDefaultTemplate() Template {
       }
 
       h3, h4 {
-          margin: 1.25rem 0.3125rem;
+          margin: 1.25rem 0.35rem;
       }
 
       h3 {
